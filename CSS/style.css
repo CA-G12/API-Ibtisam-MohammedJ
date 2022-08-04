@@ -43,7 +43,7 @@ header ul li a:hover{
 
 /* Styling Address Section */
 section.address-container {
-    padding: 35px 10%;
+    padding: 35px 5%;
     display: flex;
     justify-content: space-between;
     align-items: center;
